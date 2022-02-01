@@ -1,4 +1,4 @@
-# Zagdrath's 90s Website
+# Zagdrath's 90s Site
 
 ### Description
 This repository contains the source code for my personal site that is developed using Gatsby and is styled similar to webpages from the 90s.
