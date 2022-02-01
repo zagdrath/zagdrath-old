@@ -9,7 +9,7 @@ const IndexPage = () => {
   return (
     <body>
       <Helmet>
-        <title>Zagdrath</title>
+        <title>Home - Zagdrath</title>
         <meta charset="UTF-8"></meta>
       </Helmet>
       <Header></Header>

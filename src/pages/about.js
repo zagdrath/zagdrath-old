@@ -9,7 +9,7 @@ const AboutPage = () => {
   return (
     <body>
       <Helmet>
-        <title>Zagdrath</title>
+        <title>About - Zagdrath</title>
         <meta charset="UTF-8"></meta>
       </Helmet>
       <Header></Header>
