@@ -17,7 +17,7 @@ const ProjectsPage = () => {
       <article>
         <h1>Projects</h1>
         <p>This is a page for me to record my projects that I work on and a place for me to publish my blog articles that I write.</p>
-        <h2 class="project-list"><Link to='/projects/test'>Dell PowerVault MD1000</Link></h2>
+        <h3 class="project-list"><Link to='/projects/test'>Dell PowerVault MD1000</Link></h3>
         <p class="project-list">Published: Friday, February 4, 2022</p>
         <p class="project-list project-list-description">Stuff</p>
       </article>
