@@ -9,8 +9,8 @@ export default function Footer() {
         <hr></hr>
         <table width="100%" border="0">
           <tr><a href="mailto:zagdrath@member.fsf.org"><em>zagdrath@member.fsf.org</em></a></tr>
-          <td>Copyright (C) 2022, Zagdrath. All Rights Reserved.</td>
-          <td align="right">Last updated on February 1, 2022</td>
+          <td>Copyright © 2022 Zagdrath. All Rights Reserved.</td>
+          <td align="right">Last updated: Friday, February 4, 2022</td>
         </table>
       </footer>
     </div>

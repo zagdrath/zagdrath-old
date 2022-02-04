@@ -14,7 +14,7 @@ const IndexPage = () => {
       </Helmet>
       <Header></Header>
       <article>
-        <p>Welcome to my 90s styled personal site!</p>
+        <p>Hello and welcome to my personal site that utilies a modern JavaScript framework called <a href='https://www.gatsbyjs.com/'>Gatsby</a> but still is styled like a site from the 90s using very minimal CSS for styling.</p>
       </article>
       <Footer></Footer>
     </body>

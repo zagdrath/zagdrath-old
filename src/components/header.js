@@ -10,11 +10,13 @@ export default function Header() {
         <h1>Zagdrath's Personal Site</h1>
         <nav>
           <p>
+            <strong> [ </strong>
             <Link to="/">Home</Link>
-            <strong> - </strong>
+            <strong> | </strong>
             <Link to="/projects">Projects</Link>
-            <strong> - </strong>
+            <strong> | </strong>
             <Link to="/about">About</Link>
+            <strong> ] </strong>
           </p>
         </nav>
         <hr></hr>
