@@ -15,7 +15,7 @@ const ProjectsPage = () => {
       </Helmet>
       <Header></Header>
       <article>
-        <h1>Projects</h1>
+        <h2>Projects</h2>
         <p>This is a page for me to record my projects that I work on and a place for me to publish my blog articles that I write.</p>
         <h3 class="project-list"><Link to='/projects/test'>Testing This Webpage</Link></h3>
         <p class="project-list">Published: February 4, 2022</p>

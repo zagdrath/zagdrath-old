@@ -14,7 +14,7 @@ const ErrorPage = () => {
       </Helmet>
       <Header></Header>
       <article>
-        <h1>Error 404</h1>
+        <h2>Error 404</h2>
         <p>The page you're looking for could not be found.</p>
         <p>Please contact Cody if you think this is a mistake.</p>
       </article>

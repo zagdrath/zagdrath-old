@@ -15,9 +15,9 @@ const AboutPage = () => {
       </Helmet>
       <Header></Header>
       <article>
-        <h1>About</h1>
+        <StaticImage src="../images/profile.png" alt="Cody Wellman" width={200} align="top" class="profile"/>
+        <h2>About</h2>
         <p>Hey, I'm Cody Wellman but I usually go by Zagdrath online and I'm a software developer and an Information Technology specialist. I'm also an advocate for Free Software and the GNU/Linux operating systems and I'm also a member of the <a href="https://www.fsf.org">Free Software Foundation</a>.</p>
-        <StaticImage src="../images/profile.png" alt="Cody Wellman" width={200} align="top"/>
         <p>You can reach me via …</p>
         <ul>
           <li>Email: <a href="mailto:zagdrath@member.fsf.org">zagdrath@member.fsf.org</a></li>
@@ -25,6 +25,7 @@ const AboutPage = () => {
           <li>GitHub: <a href="https://github.com/zagdrath">github.com/zagdrath</a></li>
         </ul>
         <p>I may have other social media accounts but I rarely use them and have recently been trying not to use any social media that does not respect it's user's freedoms. If you would like to learn more about why I or anyone should not "use" or as I like to say, be used by certain social media platforms such as Facebook, Instagram, or many others, I would suggest taking a look at <a href="https://stallman.org/facebook.html">this article</a> and many others like it written by Richard Stallman.</p>
+        <h2>Skills & Expertise</h2>
       </article>
       <Footer></Footer>
     </body>
