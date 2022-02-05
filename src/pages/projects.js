@@ -10,7 +10,7 @@ const ProjectsPage = () => {
   return (
     <body>
       <Helmet>
-        <title>Projects - Zagdrath</title>
+        <title>Projects - Cody Wellman</title>
         <meta charset="UTF-8"></meta>
       </Helmet>
       <Header></Header>

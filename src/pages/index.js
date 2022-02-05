@@ -3,16 +3,18 @@ import * as React from 'react'
 import { Helmet } from 'react-helmet'
 import Header from "../components/header"
 import Footer from "../components/footer"
+import Construction from "../components/construction"
 
 // Define component
 const IndexPage = () => {
   return (
     <body>
       <Helmet>
-        <title>Home - Zagdrath</title>
+        <title>Home - Cody Wellman</title>
         <meta charset="UTF-8"></meta>
       </Helmet>
       <Header></Header>
+      <Construction></Construction>
       <article>
         <h1>Home</h1>
         <p>Hello and welcome to my personal site! As you may notice the site looks very 90s and that is because it is, I designed it to be very similar to some of the first WWW webpages. Just so you know, the views expressed here are my personal views, not those of any organization I represent. What's the purpose of this website? Well I don't fully know myself but I view it as a creative outlet and somewhat as a personal social media of sorts. It is a site I developed to publish all sorts of content.</p>

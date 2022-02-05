@@ -10,7 +10,7 @@ const AboutPage = () => {
   return (
     <body>
       <Helmet>
-        <title>About - Zagdrath</title>
+        <title>About - Cody Wellman</title>
         <meta charset="UTF-8"></meta>
       </Helmet>
       <Header></Header>
@@ -21,8 +21,8 @@ const AboutPage = () => {
         <p>You can reach me via …</p>
         <ul>
           <li>Email: <a href="mailto:zagdrath@member.fsf.org">zagdrath@member.fsf.org</a></li>
-          <li>Twitter: <a href="https://twitter.com/zagdrath">zagdrath</a></li>
-          <li>GitHub: <a href="https://github.com/zagdrath">zagdrath</a></li>
+          <li>Twitter: <a href="https://twitter.com/zagdrath">twitter.com/zagdrath</a></li>
+          <li>GitHub: <a href="https://github.com/zagdrath">github.com/zagdrath</a></li>
         </ul>
         <p>I may have other social media accounts but I rarely use them and have recently been trying not to use any social media that does not respect it's user's freedoms. If you would like to learn more about why I or anyone should not "use" or as I like to say, be used by certain social media platforms such as Facebook, Instagram, or many others, I would suggest taking a look at <a href="https://stallman.org/facebook.html">this article</a> and many others like it written by Richard Stallman.</p>
       </article>

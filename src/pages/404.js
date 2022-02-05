@@ -9,13 +9,14 @@ const ErrorPage = () => {
   return (
     <body>
       <Helmet>
-        <title>Error 404 - Zagdrath</title>
+        <title>Error 404 - Cody Wellman</title>
         <meta charset="UTF-8"></meta>
       </Helmet>
       <Header></Header>
       <article>
         <h1>Error 404</h1>
-        <p>The requested URL was not found on this server.</p>
+        <p>The page you're looking for could not be found.</p>
+        <p>Please contact Cody if you think this is a mistake.</p>
       </article>
       <Footer></Footer>
     </body>

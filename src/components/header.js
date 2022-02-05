@@ -7,7 +7,7 @@ export default function Header() {
   return (
     <div>
       <header>
-        <h1>Zagdrath's Personal Site</h1>
+        <h1>Cody Wellman's Personal Site</h1>
         <nav>
           <p>
             <strong> [ </strong>
