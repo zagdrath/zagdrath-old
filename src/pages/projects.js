@@ -14,10 +14,10 @@ const ProjectsPage = () => {
         <meta charset="UTF-8"></meta>
       </Helmet>
       <Header></Header>
-      <article>
+      <main>
         <h2>Projects</h2>
         <p>This is a page for me to record my projects that I work on and a place for me to publish my blog articles that I write.</p>
-      </article>
+      </main>
       <Footer></Footer>
     </body>
   )

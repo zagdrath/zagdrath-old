@@ -13,11 +13,11 @@ const ErrorPage = () => {
         <meta charset="UTF-8"></meta>
       </Helmet>
       <Header></Header>
-      <article>
+      <main>
         <h2>Error 404</h2>
         <p>The page you're looking for could not be found.</p>
         <p>Please contact Cody if you think this is a mistake.</p>
-      </article>
+      </main>
       <Footer></Footer>
     </body>
   )

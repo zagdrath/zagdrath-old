@@ -14,7 +14,7 @@ const AboutPage = () => {
         <meta charset="UTF-8"></meta>
       </Helmet>
       <Header></Header>
-      <article>
+      <main>
         <StaticImage src="../images/profile.png" alt="Cody Wellman" width={200} align="top" class="profile"/>
         <h2>About</h2>
         <p>Hey, I'm Cody Wellman but I usually go by Zagdrath online and I'm a software developer and an Information Technology specialist. I'm also an advocate for Free Software and the GNU/Linux operating systems as well as a member of the <a href="https://www.fsf.org">Free Software Foundation</a>.</p>
@@ -26,7 +26,35 @@ const AboutPage = () => {
         </ul>
         <p>I may have other social media accounts but I rarely use them and have recently been trying not to use any social media that does not respect it's user's freedoms. If you would like to learn more about why I or anyone should not "use" or as I like to say, be used by certain social media platforms such as Facebook, Instagram, or many others, I would suggest taking a look at <a href="https://stallman.org/facebook.html">this article</a> and many others like it written by Richard Stallman.</p>
         <h2>Skills & Expertise</h2>
-      </article>
+        <dl>
+          <dt>General Expertise:</dt>
+          <dd>Workstation and server configuration, World Wide Web, computer networking systems and security.</dd>
+          <dd>Computer hardware installation, setup, and maintenance. (servers and desktops)</dd>
+          <br></br>
+          <dt>Operating System Experience:</dt>
+          <dd>Windows client and server operating systems, GNU/Linux distributions primarily Debian and Fedora based.</dd>
+          <dd>Some hobby experience with older UNIX operating systems like Solaris and Sun Microsystems hardware.</dd>
+          <dd>Basic experience with MacOS also.</dd>
+          <br></br>
+          <dt>Programming:</dt>
+          <dd>World Wide Web programming using HTML, CSS, and JavaScript.</dd>
+          <dd>For more modern World Wide Web programming I use the React framework.</dd>
+          <dd>Gatsby for static sites and Next.js for server-side sites.</dd>
+          <dd>Some experience in Java and Python, I have used OpenCV and Tensorflow before for Machine Learning in Python.</dd>
+          <dd>Visual Studio code and some basics of Vim for editing code.</dd>
+          <dd>Git version control system and I primarily use GitHub for ease of that.</dd>
+          <dd>In the future I want to learn Rust and the fundamentals of C++.</dd>
+          <br></br>
+          <dt>Specific Applications:</dt>
+          <dd>World Wide Web servers using Apache and Nginx.</dd>
+          <dd>Database servers such as MySQL and MariaDB.</dd>
+          <dd>Basic data encryption at file, directory, and disk levels.</dd>
+          <br></br>
+          <dt>Other General Skills:</dt>
+          <dd>Compilation and installation of basic GNU/Linux software.</dd>
+          <dd>Basic electrical/soldering and mechanical skills.</dd>
+        </dl>
+      </main>
       <Footer></Footer>
     </body>
   )
