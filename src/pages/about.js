@@ -17,7 +17,7 @@ const AboutPage = () => {
       <article>
         <StaticImage src="../images/profile.png" alt="Cody Wellman" width={200} align="top" class="profile"/>
         <h2>About</h2>
-        <p>Hey, I'm Cody Wellman but I usually go by Zagdrath online and I'm a software developer and an Information Technology specialist. I'm also an advocate for Free Software and the GNU/Linux operating systems and I'm also a member of the <a href="https://www.fsf.org">Free Software Foundation</a>.</p>
+        <p>Hey, I'm Cody Wellman but I usually go by Zagdrath online and I'm a software developer and an Information Technology specialist. I'm also an advocate for Free Software and the GNU/Linux operating systems as well as a member of the <a href="https://www.fsf.org">Free Software Foundation</a>.</p>
         <p>You can reach me via …</p>
         <ul>
           <li>Email: <a href="mailto:zagdrath@member.fsf.org">zagdrath@member.fsf.org</a></li>
