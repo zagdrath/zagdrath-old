@@ -6,17 +6,17 @@ import Header from "../components/header"
 import Footer from "../components/footer"
 
 // Define component
-const ProjectsPage = () => {
+const WritingsPage = () => {
   return (
     <body>
       <Helmet>
-        <title>Projects - Cody Wellman</title>
+        <title>Writings - Cody Wellman</title>
         <meta charset="UTF-8"></meta>
       </Helmet>
       <Header></Header>
       <main>
-        <h2>Projects</h2>
-        <p>This is a page for me to record my projects that I work on and a place for me to publish my blog articles that I write.</p>
+        <h2>Writings</h2>
+        <p>This is a page for my writings which may include blog posts that I write, tutorial or how-to guides, and documentation for any projects I may work on. I may also host mirrors of other's writings and etc.</p>
       </main>
       <Footer></Footer>
     </body>
@@ -24,4 +24,4 @@ const ProjectsPage = () => {
 }
 
 // Export component
-export default ProjectsPage
+export default WritingsPage

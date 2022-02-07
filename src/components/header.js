@@ -13,7 +13,7 @@ export default function Header() {
             <strong> [ </strong>
             <Link to="/">Home</Link>
             <strong> | </strong>
-            <Link to="/projects">Projects</Link>
+            <Link to="/writings">Writings</Link>
             <strong> | </strong>
             <Link to="/about">About</Link>
             <strong> ] </strong>
