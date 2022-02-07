@@ -33,13 +33,12 @@ const AboutPage = () => {
           <br></br>
           <dt>Operating System Experience:</dt>
           <dd>Windows client and server operating systems, GNU/Linux distributions primarily Debian and Fedora based.</dd>
-          <dd>Some hobby experience with older UNIX operating systems like Solaris and Sun Microsystems hardware.</dd>
+          <dd>Hobby experience with older UNIX operating systems like Solaris and Sun Microsystems hardware.</dd>
           <dd>Basic experience with MacOS also.</dd>
           <br></br>
           <dt>Programming:</dt>
           <dd>World Wide Web programming using HTML, CSS, and JavaScript.</dd>
-          <dd>For more modern World Wide Web programming I use the React framework.</dd>
-          <dd>Gatsby for static sites and Next.js for server-side sites.</dd>
+          <dd>Modern World Wide Web programming using React, Next.js, and Gatsby.</dd>
           <dd>Some experience in Java and Python, I have used OpenCV and Tensorflow before for Machine Learning in Python.</dd>
           <dd>Visual Studio code and some basics of Vim for editing code.</dd>
           <dd>Git version control system and I primarily use GitHub for ease of that.</dd>
