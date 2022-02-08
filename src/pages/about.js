@@ -52,6 +52,7 @@ const AboutPage = () => {
           <dt>Other General Skills:</dt>
           <dd>Compilation and installation of basic GNU/Linux software.</dd>
           <dd>Basic electrical/soldering and mechanical skills.</dd>
+          <dd>Basic knowledge of Microsoft Office applications.</dd>
         </dl>
       </main>
       <Footer></Footer>

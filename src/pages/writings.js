@@ -17,6 +17,12 @@ const WritingsPage = () => {
       <main>
         <h2>Writings</h2>
         <p>This is a page for my writings which may include blog posts that I write, tutorial or how-to guides, and documentation for any projects I may work on. I may also host mirrors of other's writings and etc.</p>
+        <p>To do:</p>
+        <ul>
+          <li>Nokia IP440 Firewall</li>
+          <li>Dell PowerVault MD1000</li>
+          <li>How to Create Your own Tilde Server</li>
+        </ul>
       </main>
       <Footer></Footer>
     </body>
