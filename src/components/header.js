@@ -11,11 +11,11 @@ export default function Header() {
         <nav>
           <p>
             <strong> [ </strong>
-            <Link to="/">Home</Link>
+            <Link to='/'>Home</Link>
             <strong> | </strong>
-            <Link to="/writings">Writings</Link>
+            <Link to='/writings'>Writings</Link>
             <strong> | </strong>
-            <Link to="/about">About</Link>
+            <Link to='/about'>About</Link>
             <strong> ] </strong>
           </p>
         </nav>
