@@ -24,6 +24,11 @@ const WritingsPage = () => {
           <li>Dell PowerVault MD1000</li>
           <li>How to Create Your own Tilde Server</li>
         </ul>
+        <h2>Books</h2>
+        <p>These are some books that I highly recommend people to check out and read.</p>
+        <ul>
+          <li><a href='https://www.zagdrath.dev/writings/books/fsfs3-hardcover.pdf'>Free Software, Free Society</a>, this is the third edition of a selected collection of writings by Richard M. Stallman. It introduces the subject of history and development of the GNU Project and the Free Software Foundation. I also have the <a href='https://www.zagdrath.dev/writings/books/rms-essays.pdf'>first edition</a> and <a href='https://www.zagdrath.dev/writings/books/fsfs-ii-2.pdf'>second edition</a> available to download.</li>
+        </ul>
       </main>
       <Footer></Footer>
     </body>
