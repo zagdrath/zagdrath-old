@@ -20,9 +20,13 @@ const WritingsPage = () => {
         <p>To do: (I will get to writing these eventually)</p>
         <ul>
           <li><Link to='/writings/setup-wan'>How to Setup a WAN in Cisco Packet Tracer</Link>, a tutorial on how you would go about setting up a Wide Area Network(WAN) in Cisco Packet Tracer.</li>
-          <li>Nokia IP440 Firewall</li>
-          <li>Dell PowerVault MD1000</li>
           <li>How to Create Your own Tilde Server</li>
+        </ul>
+        <h2>Projects</h2>
+        <p>Here are some projects that I either have worked on in the past or I am currently working on. Just as a warning some of these articles may be just me rambling.</p>
+        <ul>
+          <li><Link to='/writings/nokiaip440'>Nokia IP440 Firewall</Link>, this is an old 4U firewall / security appliance I bought off of eBay, it happens to use a standard desktop Intel motherboard with a Pentium III.</li>
+          <li><Link to='/writings/dellmd1000'>Dell PowerVault MD1000</Link>, these are the chronicles of me trying to get a Dell PowerVault MD1000 to work properly, which has not been easy so far.</li>
         </ul>
         <h2>Books</h2>
         <p>These are some books that I highly recommend people to check out and read.</p>
