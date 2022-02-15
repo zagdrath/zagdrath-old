@@ -24,7 +24,7 @@ const AboutPage = () => {
           <li>Twitter: <a href="https://twitter.com/zagdrath">twitter.com/zagdrath</a></li>
           <li>GitHub: <a href="https://github.com/zagdrath">github.com/zagdrath</a></li>
         </ul>
-        <p>I may have other social media accounts but I rarely use them and have recently been trying not to use any social media that does not respect it's user's freedoms. If you would like to learn more about why I or anyone should not "use" or as I like to say, be used by certain social media platforms such as Facebook, Instagram, or many others, I would suggest taking a look at <a href="https://stallman.org/facebook.html">this article</a> and many others like it written by Richard Stallman.</p>
+        <p>I may have other social media accounts but I rarely use them and have recently been trying not to use any social media that does not respect it's user's freedoms. If you would like to learn more about why I or anyone should not "use" or as I like to say and others have said, be <strong>used</strong> by certain social media platforms such as Facebook, Instagram, or many others, I would suggest taking a look at <a href="https://stallman.org/facebook.html">this article</a> and many others like it written by Richard Stallman.</p>
         <h2>Skills & Expertise</h2>
         <dl>
           <dt>General Expertise:</dt>
