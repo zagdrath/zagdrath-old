@@ -39,8 +39,9 @@ const AboutPage = () => {
           <dt>Programming:</dt>
           <dd>World Wide Web programming using HTML, CSS, and JavaScript.</dd>
           <dd>Modern World Wide Web programming using React, Next.js, and Gatsby.</dd>
-          <dd>Some experience in Java and Python, I have used OpenCV and Tensorflow before for Machine Learning in Python.</dd>
-          <dd>Visual Studio code and some basics of Vim for editing code.</dd>
+          <dd>Java</dd>
+          <dd>Python, Open CV and Tensorflow for Machine Learning.</dd>
+          <dd>Visual Studio Code and some basics of both Vim and GNU Emacs.</dd>
           <dd>Git version control system and I primarily use GitHub for ease of that.</dd>
           <dd>In the future I want to learn Rust and the fundamentals of C++.</dd>
           <br></br>
@@ -48,11 +49,13 @@ const AboutPage = () => {
           <dd>World Wide Web servers using Apache and Nginx.</dd>
           <dd>Database servers such as MySQL and MariaDB.</dd>
           <dd>Basic data encryption at file, directory, and disk levels.</dd>
+          <dd>Super basic knowledge and use of Solidworks.</dd>
           <br></br>
           <dt>Other General Skills:</dt>
           <dd>Compilation and installation of basic GNU/Linux software.</dd>
           <dd>Basic electrical/soldering and mechanical skills.</dd>
           <dd>Basic knowledge of Microsoft Office applications.</dd>
+          <dd>Configuration, setup, and maintenance of 3D printers.</dd>
         </dl>
       </main>
       <Footer></Footer>
