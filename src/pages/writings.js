@@ -38,8 +38,8 @@ const WritingsPage = () => {
         <ul>
           <li><a href='../fsfs3-hardcover.pdf'>Free Software, Free Society</a>, this is the third edition of a selected 
           collection of writings by Richard M. Stallman. It introduces the subject of history and development of the GNU 
-          Project and the Free Software Foundation. I also have the <a href='../rms-essays.pdf'>first edition</a> and 
-        <a href='../fsfs-ii-2.pdf'>second edition</a> available to download.</li>
+          Project and the Free Software Foundation. I also have the <a href='../rms-essays.pdf'>first edition</a> 
+          and <a href='../fsfs-ii-2.pdf'>second edition</a> available to download.</li>
         </ul>
       </main>
       <Footer></Footer>
