@@ -26,6 +26,7 @@ const AboutPage = () => {
           <li>Twitter: <a href="https://twitter.com/zagdrath">twitter.com/zagdrath</a></li>
           <li>GitHub: <a href="https://github.com/zagdrath">github.com/zagdrath</a></li>
         </ul>
+        <p>My PGP public key can be found <a href='../zagdrath-pubkey.txt'>here</a>.</p>
         <p>I may have other social media accounts but I rarely use them and have recently been trying not to 
         use any social media that does not respect it's user's freedoms. If you would like to learn more 
         about why I or anyone should not "use" or as I like to say and others have said, be used by certain 
