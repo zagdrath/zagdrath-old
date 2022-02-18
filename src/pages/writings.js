@@ -31,7 +31,7 @@ const WritingsPage = () => {
           appliance I bought off of eBay, it happens to use a standard desktop Intel motherboard with a Pentium III.</li>
           <li><Link to='/writings/dellmd1000'>Dell PowerVault MD1000</Link>, these are the chronicles of me trying to get a Dell PowerVault MD1000 to work properly, which has not been easy so far.</li>
           <li><Link to='/writings/babel'>The Library of Babel</Link>, this is a program that simulates The Library of Babel and is developed in Rust.</li>
-          <li><Link to='/writings/10base5'>10BASE5 Networking</Link>, this is an attempt at building a 10BASE5 network.</li>
+          <li><Link to='/writings/retro'>Retro Networking</Link>, this is an attempt at building a 10BASE5 or a 10BASE2 network.</li>
         </ul>
         <h2>Books</h2>
         <p>These are some books that I highly recommend people to check out and read.</p>
