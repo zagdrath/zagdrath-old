@@ -33,6 +33,7 @@ const IndexPage = () => {
                 <li><a href='https://templeos.org/'>TempleOS</a> is a free, public domain, 64-bit operating system entirely custom designed and developed by the great Terry A. Davis.</li>
                 <li><a href='https://yesterweb.org/no-to-web3/'>Keep the web free, say no to Web3</a> This is an article highlighting all the bad that comes with Web3.</li>
                 <li><a href='https://wikileaks.org/'>WikiLeaks</a> is a multi-national media organization and associated library.</li>
+                <li><a href='https://assangedefense.org/'>Assange Defense</a>, Defend press freedom, defend Julian Assange.</li>
                 <li>The <a href='https://www.fsf.org/'>Free Software Foundation</a> is a nonprofit with a worldwide mission to promote computer user freedom.</li>
               </ul>
             </td>

@@ -38,7 +38,7 @@ const AboutPage = () => {
         <dl>
           <dt>General Expertise:</dt>
           <dd>Workstation and server configuration, World Wide Web, computer networking systems and security.</dd>
-          <dd>Computer hardware installation, setup, and maintenance. (servers and desktops)</dd>
+          <dd>Computer hardware installation, setup, and maintenance (servers and desktops).</dd>
           <br></br>
           <dt>Operating System Experience:</dt>
           <dd>Windows client and server operating systems, GNU/Linux distributions primarily Debian and Fedora based.</dd>
@@ -48,7 +48,7 @@ const AboutPage = () => {
           <dt>Programming:</dt>
           <dd>World Wide Web programming using HTML, CSS, and JavaScript.</dd>
           <dd>Modern World Wide Web programming using React, Next.js, and Gatsby.</dd>
-          <dd>Java</dd>
+          <dd>The Java programming language.</dd>
           <dd>Python, Open CV and Tensorflow for Machine Learning.</dd>
           <dd>Visual Studio Code and some basics of both Vim and GNU Emacs.</dd>
           <dd>Git version control system and I primarily use GitHub for ease of that.</dd>
