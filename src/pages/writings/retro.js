@@ -21,7 +21,7 @@ const Retro = () => {
         network. One of the most important pieces obviously is the cable, so I am currently 
         trying to source some Belden 9880 cable for this network. My father may have some 
         in a shed so I will be going to look to see if it is what I need.</p>
-        <p>Update: I checked out the cable and the cable he was talking about ended up being 
+        <p>Update February 18, 2022: I checked out the cable and the cable he was talking about ended up being 
         TFC T-10, which is very similar to RG-6/U and is 75 Ohm rather than 50 Ohm RG-58A/U 
         cable that I need for 10BASE2 networking. This cable obviously is not exactly correct 
         for 10BASE2, but it should be able to work at a short distance for me until I am able 
@@ -30,7 +30,9 @@ const Retro = () => {
         so I am unable to use it with the vamprire taps. I also bought a 3COM Etherlink 
         XL PCI 3C900-COMBO card for my client systems and a Cabletron ST-500 transceiver 
         that comes with an AMP 228752-1 vampire tap. Below are some images of the TFC 
-        T-10 cable and other parts I have gotten so far for this project.</p>
+        T-10 cable and other parts I have gotten so far for this project. I also 
+        ordered some Klein Tools BNC connectors and a special crimper tool from them 
+        to put the ends on the cables.</p>
         <table width="100%" border="0">
           <tr>
             <td width="33%" class="table-align">
